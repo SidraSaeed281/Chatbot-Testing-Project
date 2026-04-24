@@ -1,4 +1,4 @@
-# Samarco Motors Chatbot Evaluation
+# Samaco Motors Chatbot Evaluation
 
 ## 📌 Project Overview
 This repository contains a **manual QA evaluation project** performed on the Samarco Motors customer chatbot.  
