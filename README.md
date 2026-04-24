@@ -23,6 +23,7 @@ The goal of this project is to showcase QA practices for chatbot evaluation, cov
 ---
 
 ## 📂 Repository Structure
+```chatbot-testing-project/
 │
 ├── bug-test-sheet/          # Raw bug and test case documentation
 │   └── Bug_Test_Sheet.xlsx
@@ -31,8 +32,7 @@ The goal of this project is to showcase QA practices for chatbot evaluation, cov
 │   └── Samarco_Chatbot_Evaluation_Report.pdf
 │
 └── README.md
-
----
+```
 
 ## 🧩 Key Findings
 
